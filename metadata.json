@@ -1,0 +1,6 @@
+{
+  "name": "TokDrama - Watermark-Free TikTok Episode Downloader",
+  "description": "Download TikTok short drama episodes and videos in crisp MP4 format without watermarks directly to your local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
